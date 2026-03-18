@@ -1,0 +1,16 @@
+{
+  "app": "gestaopap",
+  "channel": "stable",
+  "version": "2026.03.18.1",
+  "published_at": "2026-03-18T00:00:00Z",
+  "artifacts": [
+    {
+      "name": "FINAL_V60.pyc",
+      "path": "RELEASES/FINAL_V60.pyc"
+    },
+    {
+      "name": "servidor_juri.pyc",
+      "path": "RELEASES/servidor_juri.pyc"
+    }
+  ]
+}
