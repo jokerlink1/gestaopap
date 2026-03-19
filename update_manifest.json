@@ -1,8 +1,8 @@
 {
   "app": "gestaopap",
   "channel": "stable",
-  "version": "2026.03.18.1",
-  "published_at": "2026-03-18T00:00:00Z",
+  "version": "2026.03.19.1",
+  "published_at": "2026-03-19T00:00:00Z",
   "artifacts": [
     {
       "name": "FINAL_V60.pyc",
