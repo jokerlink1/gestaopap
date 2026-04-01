@@ -3,4 +3,5 @@
 !README.md
 !update_manifest.json
 !RELEASES/
-!RELEASES/*.pyc
+!RELEASES/*.zip
+!RELEASES/*.txt

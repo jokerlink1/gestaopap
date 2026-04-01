@@ -1,16 +1,7 @@
 {
-  "app": "gestaopap",
+  "version": "2.0",
   "channel": "stable",
-  "version": "2026.03.19.1",
-  "published_at": "2026-03-19T00:00:00Z",
-  "artifacts": [
-    {
-      "name": "FINAL_V60.pyc",
-      "path": "RELEASES/FINAL_V60.pyc"
-    },
-    {
-      "name": "servidor_juri.pyc",
-      "path": "RELEASES/servidor_juri.pyc"
-    }
-  ]
+  "artifact": "RELEASES/Sistema_Gestao_PAP_v2.0.zip",
+  "sha256": "25FEC92F865E1C5F8444A60D14F5CE9CFD7329E7CB69606EDC09FFC267F84F87",
+  "notes": "Build executável v2.0 (sem código fonte)"
 }
