@@ -2,6 +2,7 @@
   "version": "2.0",
   "channel": "stable",
   "artifact": "RELEASES/Sistema_Gestao_PAP_v2.0.zip",
-  "sha256": "25FEC92F865E1C5F8444A60D14F5CE9CFD7329E7CB69606EDC09FFC267F84F87",
+  "download_url": "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.0.zip",
+  "sha256": "0C16A97CA47286967427A7015046A1FA0A6802EAA76E3C585D1D006BD922FC79",
   "notes": "Build executável v2.0 (sem código fonte)"
 }
