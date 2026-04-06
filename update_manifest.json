@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.2",
+    "version":  "2.3",
     "channel":  "stable",
-    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.2.zip",
-    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.2.zip",
-    "sha256":  "4E398ED97D6397138B31303907431221A9064D995B35AE68B7E7B14751769230",
-    "notes":  "Build executavel v2.2: correcao do auto-update (substituicao efetiva dos ficheiros), melhorias de estabilidade e correcoes recentes."
+    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.3.zip",
+    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.3.zip",
+    "sha256":  "D19C3D78A6F5EA5F6DB4454E85E4FB8FD52434981D0A15BFC9841892CC119FBE",
+    "notes":  "Build executavel v2.3: correcao critica do setup/build (tkinter incluido), instalacao funcional e atualizacao automatica mantida."
 }

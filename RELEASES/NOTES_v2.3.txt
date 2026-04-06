@@ -1,0 +1,4 @@
+﻿Sistema Gestão PAP v2.3
+- Correção crítica: build recompilada com ambiente Python que inclui tkinter.
+- Setup volta a instalar e abrir a aplicação sem erro "No module named tkinter".
+- Mantém as correções da v2.2 (auto-update com substituição efetiva de ficheiros).
