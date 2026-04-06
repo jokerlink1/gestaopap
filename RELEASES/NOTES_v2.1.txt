@@ -1,0 +1,14 @@
+Sistema Gestão PAP - Build 2.1
+
+Alterações e correções:
+- Correções de codificação UTF em várias áreas da interface.
+- PDF da Ata (Defesa Final e Época Especial):
+  - Triénio passa a ser obtido da Ficha 1 do aluno.
+  - Data e hora no texto principal em formato por extenso.
+  - Removida a secção superior de morada/nome da escola e adicionado título da ata.
+- Defesa Final e Época Especial:
+  - Novo visto "Aluno faltou".
+  - Se faltar à Defesa Final, o aluno é encaminhado automaticamente para Época Especial.
+  - Ata passa a indicar não comparência e, na Defesa Final, submissão à Época Especial.
+- Atualizações automáticas:
+  - Verificação por update_manifest.json (build-only), sem exposição de código-fonte.
