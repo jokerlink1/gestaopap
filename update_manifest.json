@@ -1,8 +1,8 @@
-{
-  "version": "2.1",
-  "channel": "stable",
-  "artifact": "RELEASES/Sistema_Gestao_PAP_v2.1.zip",
-  "download_url": "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.1.zip",
-  "sha256": "A534CF4FA5A46CF62E94D5E89D0DE8F004CB0337C050D481FA395141D5F3B251",
-  "notes": "Build executável v2.1: correções UTF, ata com triénio da ficha 1, data/hora em extenso, falta do aluno com passagem automática para época especial e texto automático na ata."
+﻿{
+    "version":  "2.2",
+    "channel":  "stable",
+    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.2.zip",
+    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.2.zip",
+    "sha256":  "4E398ED97D6397138B31303907431221A9064D995B35AE68B7E7B14751769230",
+    "notes":  "Build executavel v2.2: correcao do auto-update (substituicao efetiva dos ficheiros), melhorias de estabilidade e correcoes recentes."
 }

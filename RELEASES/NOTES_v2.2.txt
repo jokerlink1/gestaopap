@@ -1,0 +1,3 @@
+﻿Sistema Gestão PAP v2.2
+- Correção crítica do updater automático: agora substitui corretamente os ficheiros da aplicação mesmo quando o ZIP tem estrutura em subpasta.
+- Mantidas as correções funcionais e visuais já incluídas na v2.1.
