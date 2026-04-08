@@ -1,0 +1,3 @@
+﻿Sistema Gestão PAP v2.6
+- Cloudflare: correção da deteção do cloudflared.exe em instalações onde o binário está em _internal.
+- Portal do Júri: no histórico de submissões, agora existe botão para editar e reabrir a avaliação.

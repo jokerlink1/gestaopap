@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.5",
+    "version":  "2.6",
     "channel":  "stable",
-    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.5.zip",
-    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.5.zip",
-    "sha256":  "AD173699404F741705F52435D241D55D18FB5FDE3A47E444ACF6A703177D3905",
-    "notes":  "Build executavel v2.5: deteccao de novas versoes com retries periodicos e fallback de URLs de manifesto para maior fiabilidade em redes restritas."
+    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.6.zip",
+    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.6.zip",
+    "sha256":  "9E250E9B786ADD9DC23625B4BD4812704FC71097538F3E2AE3A702E1DF15C284",
+    "notes":  "Build executavel v2.6: deteccao robusta do cloudflared no _internal e edicao de submissoes no Portal do Juri a partir do historico."
 }
