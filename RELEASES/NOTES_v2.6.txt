@@ -1,3 +1,3 @@
-﻿Sistema Gestão PAP v2.6
-- Cloudflare: correção da deteção do cloudflared.exe em instalações onde o binário está em _internal.
-- Portal do Júri: no histórico de submissões, agora existe botão para editar e reabrir a avaliação.
+Sistema Gestão PAP v2.6
+- Rollback: novo controlo no separador Dados para criar snapshots e restaurar versão anterior da aplicação.
+- Atualização automática: antes de substituir ficheiros, cria snapshot automático para permitir retorno rápido.
