@@ -1,0 +1,3 @@
+﻿Sistema Gestão PAP v2.4
+- Impressão em lote: adicionadas "Ata - Defesa Final" e "Ata - Época Especial".
+- PDF "Tipo de Avaliações": corrigida a apresentação para não mostrar marcadores HTML (<b>...</b>).

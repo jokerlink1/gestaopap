@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.3",
+    "version":  "2.4",
     "channel":  "stable",
-    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.3.zip",
-    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.3.zip",
-    "sha256":  "D19C3D78A6F5EA5F6DB4454E85E4FB8FD52434981D0A15BFC9841892CC119FBE",
-    "notes":  "Build executavel v2.3: correcao critica do setup/build (tkinter incluido), instalacao funcional e atualizacao automatica mantida."
+    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.4.zip",
+    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.4.zip",
+    "sha256":  "C832FE2264F1E5D27639B4B9E377DB0B9AE26DAAE5655CBF8C543A7375F677B7",
+    "notes":  "Build executavel v2.4: impressao em lote com Atas (Defesa Final e Epoca Especial) e correcao da renderizacao dos marcadores \u003cb\u003e\u003c/b\u003e no PDF Tipo de Avaliacoes."
 }
