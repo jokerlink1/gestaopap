@@ -1,0 +1,4 @@
+﻿Sistema Gestão PAP v2.5
+- Verificação de atualizações mais robusta.
+- Retry automático periódico (5 min em falha, 20 min em sucesso).
+- Fallback entre várias URLs do manifesto para funcionar melhor em redes com bloqueios.
