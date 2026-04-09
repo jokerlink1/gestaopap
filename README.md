@@ -5,9 +5,9 @@ Aplicação desktop para gestão e avaliação de PAP, com atualização automá
 ## Download Rápido
 
 - Instalação completa (recomendado):  
-  [Sistema_Gestao_PAP_Setup_v2.7.1.exe](https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_Setup_v2.7.1.exe)
+  [Sistema_Gestao_PAP_Setup_v2.7.2.exe](https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_Setup_v2.7.2.exe)
 - Atualização manual (ZIP):  
-  [Sistema_Gestao_PAP_v2.7.1.zip](https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.1.zip)
+  [Sistema_Gestao_PAP_v2.7.2.zip](https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.2.zip)
 
 ## O que este repositório contém
 
@@ -29,4 +29,4 @@ Aplicação desktop para gestão e avaliação de PAP, com atualização automá
 
 ## Versão atual
 
-`v2.7.1`
+`v2.7.2`

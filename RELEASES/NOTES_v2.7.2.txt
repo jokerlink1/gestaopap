@@ -1,0 +1,3 @@
+Sistema Gestão PAP v2.7.2
+- Atualização automática: quando a app está em pasta protegida (ex.: Program Files), o update pede elevação UAC e continua automaticamente.
+- Evita o erro “Sem permissões para atualizar nesta pasta” nesses cenários.
