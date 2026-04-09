@@ -1,0 +1,3 @@
+Sistema Gestão PAP v2.7.1
+- Portal do Júri: ao editar uma submissão, o botão passa a “Guardar Alteração”.
+- Edição de submissões do Júri permitida apenas no dia agendado da avaliação (regra aplicada no frontend e no backend).
