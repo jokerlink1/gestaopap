@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.6",
+    "version":  "2.7",
     "channel":  "stable",
-    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.6.zip",
-    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.6.zip",
-    "sha256":  "139A0EA8B4EE357DC8A965F38E46208B27002D501C05F68CC62CAB158F2E5361",
-    "notes":  "Build executavel v2.6: rollback para versao anterior no separador Dados e snapshot automatico antes de aplicar atualizacao."
+    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.7.zip",
+    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.zip",
+    "sha256":  "632C147E38B0030BB596A833E5B17891F9557BB142ED4A751CFB82CCB362BD75",
+    "notes":  "Build executavel v2.7: corrige empacotamento com tkinter (erro No module named tkinter) e mantem rollback no separador Dados."
 }

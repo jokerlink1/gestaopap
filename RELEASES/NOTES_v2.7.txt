@@ -1,0 +1,3 @@
+Sistema Gestão PAP v2.7
+- Correção crítica de instalação: tkinter incluído na build (corrige erro "No module named tkinter").
+- Mantém funcionalidade de rollback no separador Dados (snapshot manual + restauração).
