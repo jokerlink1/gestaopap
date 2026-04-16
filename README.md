@@ -5,9 +5,9 @@ Aplicação desktop para gestão completa da Prova de Aptidão Profissional (PAP
 ## Download Rápido
 
 - Instalação completa (recomendado):  
-  [Sistema_Gestao_PAP_Setup_v2.7.2.exe](https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_Setup_v2.7.2.exe)
+  [Sistema_Gestao_PAP_Setup_v2.7.3.exe](https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_Setup_v2.7.3.exe)
 - Atualização manual (ZIP):  
-  [Sistema_Gestao_PAP_v2.7.2.zip](https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.2.zip)
+  [Sistema_Gestao_PAP_v2.7.3.zip](https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.3.zip)
 
 ## Funcionalidades Principais
 
@@ -73,4 +73,4 @@ Sou professor de Informática desde 2006 e os programas que desenvolvo surgem da
 
 ## Versão Atual
 
-`v2.7.2`
+`v2.7.3`

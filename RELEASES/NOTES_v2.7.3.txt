@@ -1,0 +1,3 @@
+Sistema Gestão PAP v2.7.3
+- Publicação da versão incremental 2.7.3 com setup e pacote de atualização.
+- Mantém as correções anteriores de atualização automática (UAC), rollback e metadados do publicador.

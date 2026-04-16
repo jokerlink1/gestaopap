@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.7.2",
+    "version":  "2.7.3",
     "channel":  "stable",
-    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.7.2.zip",
-    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.2.zip",
-    "sha256":  "6AE60BC53067BC6550F5A8021554A57319120BBA97B43FBC6D844BF6B5FCCF76",
-    "notes":  "Build executavel v2.7.2: atualizacao automatica com elevacao UAC quando instalada em pasta protegida (Program Files)."
+    "artifact":  "RELEASES/Sistema_Gestao_PAP_v2.7.3.zip",
+    "download_url":  "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.3.zip",
+    "sha256":  "A9DF51199B4152E97BB340A59A03EA46B896E34C44515E80D8AB9C32B5D45BF5",
+    "notes":  "Build executavel v2.7.3: consolidacao da versao com setup e atualizacao publica."
 }
