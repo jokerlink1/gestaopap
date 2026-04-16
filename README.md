@@ -63,7 +63,7 @@ Aplicação desktop para gestão completa da Prova de Aptidão Profissional (PAP
 
 ## Sobre o Autor
 
-Este projeto é desenvolvido por [Douglas Gaspar](https://github.com/jokerlink1).
+Este projeto é desenvolvido por [Jorge Silva](https://github.com/jokerlink1).
 
 Sou apaixonado por informática desde muito novo. Comecei a programar aos 8 anos, num Sinclair ZX Spectrum, a copiar programas de revistas da especialidade. Fui acompanhando a evolução da informática e, em 1998, tive o meu primeiro computador: um AMD 450 MHz, ajustado para 550 MHz, uma verdadeira máquina para a época.
 
