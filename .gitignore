@@ -6,3 +6,8 @@
 !RELEASES/*.zip
 !RELEASES/*.exe
 !RELEASES/*.txt
+!docs/
+!docs/screenshots/
+!docs/screenshots/*.png
+!docs/screenshots/*.jpg
+!docs/screenshots/*.jpeg

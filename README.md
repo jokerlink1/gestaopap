@@ -1,6 +1,6 @@
 # Sistema Gestão PAP
 
-Aplicação desktop para gestão e avaliação de PAP, com atualização automática e distribuição em formato executável.
+Aplicação desktop para gestão completa da Prova de Aptidão Profissional (PAP), com foco em organização pedagógica, avaliação por júri, geração de documentos e portais web de apoio (Aluno e Júri).
 
 ## Download Rápido
 
@@ -9,24 +9,58 @@ Aplicação desktop para gestão e avaliação de PAP, com atualização automá
 - Atualização manual (ZIP):  
   [Sistema_Gestao_PAP_v2.7.2.zip](https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.2.zip)
 
-## O que este repositório contém
+## Funcionalidades Principais
 
-- Apenas builds para utilizador final
-- Sem código-fonte Python (`.py`)
-- Ficheiros de release na pasta [`RELEASES/`](./RELEASES)
+- Gestão de cursos, turmas, alunos, júri e equipa técnica.
+- Avaliação por momentos (Momento 1, 2 e 3), Defesa Final e Época Especial.
+- Portal do Aluno (submissão e edição de fichas, com controlo de bloqueio pelo professor).
+- Portal do Júri (submissão de notas, histórico e edição condicionada por regras de agendamento).
+- Agendamento de fichas e defesa com controlo por datas.
+- Geração de PDFs individuais e em lote:
+  - Fichas PAP.
+  - Atas de Defesa Final e Época Especial.
+  - Grelhas de defesa.
+  - Relatórios e estatísticas.
+- Atualização automática por versão (com validação e rollback).
+- Suporte a publicação remota dos portais via Cloudflare Tunnel.
 
-## Como instalar
+## Destaques Técnicos da Distribuição
 
-1. Faça download do `Setup`.
+- Distribuição **build-only**: sem código-fonte Python disponível ao utilizador final.
+- Setup instalável (`.exe`) e pacote de atualização (`.zip`).
+- Verificação de integridade por SHA256.
+- Atualização automática com pedido de elevação (UAC) em pastas protegidas.
+- Snapshots de segurança para rollback da versão anterior.
+
+## Galeria (Programa em execução)
+
+![Janela principal do Sistema Gestão PAP](docs/screenshots/dashboard-principal.png)
+
+## Estrutura do Repositório
+
+- [`RELEASES/`](./RELEASES): builds, setups, notas de versão e checksums.
+- [`update_manifest.json`](./update_manifest.json): manifesto da versão usada pela atualização automática.
+- [`README.md`](./README.md): documentação pública do projeto.
+- [`docs/screenshots/`](./docs/screenshots): capturas de ecrã da aplicação.
+
+## Instalação
+
+1. Faça download do ficheiro `Sistema_Gestao_PAP_Setup_...exe`.
 2. Execute o instalador.
-3. Abra o atalho `Sistema Gestão PAP`.
+3. Abra a aplicação pelo atalho `Sistema Gestão PAP`.
 
-## Como atualizar
+## Atualização
 
-- A aplicação verifica novas versões automaticamente.
-- Quando aparecer “Nova versão disponível”, pode atualizar com um clique.
-- Também pode fazer update manual pelo ZIP da versão mais recente.
+- A aplicação verifica novas versões automaticamente ao iniciar.
+- Quando surgir o aviso de nova versão, pode atualizar com um clique.
+- Em instalações em pasta protegida (ex.: `Program Files`), o sistema pede permissão de administrador para concluir a atualização.
 
-## Versão atual
+## Política de Versionamento
+
+- Correções pequenas: `2.x.y`
+- Alterações maiores: `2.x`
+- Alterações drásticas/estruturais: incremento da versão principal
+
+## Versão Atual
 
 `v2.7.2`
