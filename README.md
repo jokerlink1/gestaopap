@@ -61,6 +61,16 @@ Aplicação desktop para gestão completa da Prova de Aptidão Profissional (PAP
 - Alterações maiores: `2.x`
 - Alterações drásticas/estruturais: incremento da versão principal
 
+## Sobre o Autor
+
+Este projeto é desenvolvido por [Douglas Gaspar](https://github.com/jokerlink1).
+
+Sou apaixonado por informática desde muito novo. Comecei a programar aos 8 anos, num Sinclair ZX Spectrum, a copiar programas de revistas da especialidade. Fui acompanhando a evolução da informática e, em 1998, tive o meu primeiro computador: um AMD 450 MHz, ajustado para 550 MHz, uma verdadeira máquina para a época.
+
+Em 2001, criei a minha empresa de informática, a **Ramware - Sistemas Informáticos, Lda.** Antes disso, concluí o meu percurso académico na Universidade Lusófona de Lisboa, com o Bacharelato em Informática de Gestão, seguido da Licenciatura em Informática e, em 2025, do Mestrado em Ensino de Informática.
+
+Sou professor de Informática desde 2006 e os programas que desenvolvo surgem das necessidades reais que encontro no ensino profissional.
+
 ## Versão Atual
 
 `v2.7.2`
