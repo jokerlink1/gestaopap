@@ -1,0 +1,4 @@
+v2.7.4
+- Corre??o global de codifica??o UTF na interface e textos do sistema.
+- Atualiza??o autom?tica refor?ada com resolu??o fail-safe do execut?vel e caminho.
+- Janela de progresso de atualiza??o com estados e ficheiros processados.
