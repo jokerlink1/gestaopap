@@ -1,0 +1,4 @@
+v2.7.5
+- Adicionado botao Pauta Final (PDF) em Resultados Finais e Estatisticas.
+- Adicionado o mesmo botao na pre-visualizacao da nota final.
+- PDF da Pauta Final gerado com cabecalho, rodape e estilo dos documentos da aplicacao.

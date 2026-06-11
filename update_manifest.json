@@ -1,8 +1,8 @@
 {
-    "version": "2.7.4",
+    "version": "2.7.5",
     "channel": "stable",
-    "artifact": "RELEASES/Sistema_Gestao_PAP_v2.7.4.zip",
-    "download_url": "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.4.zip",
-    "sha256": "1E65F05147B505788BDEB00EF0F2A4527DFCA90C28AA5C436ADA8F32BA5198FA",
-    "notes": "Build executavel v2.7.4: correcao de codificacao UTF e robustez da atualizacao automatica."
+    "artifact": "RELEASES/Sistema_Gestao_PAP_v2.7.5.zip",
+    "download_url": "https://raw.githubusercontent.com/jokerlink1/gestaopap/main/RELEASES/Sistema_Gestao_PAP_v2.7.5.zip",
+    "sha256": "CB985C54D2015D5A42BC84F215EC1DE77990E88C33C215D14C0CD0DF2290D85A",
+    "notes": "Build executavel v2.7.5: adicionado PDF da Pauta Final nos Resultados e na pré-visualização."
 }
